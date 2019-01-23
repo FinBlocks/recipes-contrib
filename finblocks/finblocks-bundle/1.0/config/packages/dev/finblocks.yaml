@@ -1,0 +1,5 @@
+finblocks:
+  ssl_key: path/to/your/sandbox/ssl/key
+  ssl_cert: path/to/your/sandbox/ssl/cert
+  ssl_ca: path/to/your/sandbox/ssl/ca
+  sandbox: true # FALSE by default
